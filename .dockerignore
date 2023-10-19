@@ -1,0 +1,5 @@
+app/vendor
+.idea/
+.vscode/
+/storage
+docker/

@@ -1,0 +1,5 @@
+.env
+/storage
+.idea/
+.vscode/
+/app/vendor/
